@@ -4,7 +4,7 @@
 # external requirements
 flake8
 cookiecutter
-dvc 
+dvc
 numpy
 pandas 
 sklearn 
